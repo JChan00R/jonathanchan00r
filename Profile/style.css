@@ -1,0 +1,86 @@
+
+body {
+
+background-color: blue
+margin:0;
+padding:0;
+background:url(https://i.imgur.com/fAgT1mT.jpeg) no-repeat center center fixed;
+background-size: cover;
+font-size: 20px;
+font-family: 'Share Tech Mono', monospace;
+}
+header {
+width: 100%
+}
+nav {
+
+}
+.img_contact {
+  overflow. auto;
+}
+ul {
+
+}
+li {
+
+}
+img {
+
+}
+h1 {padding: 1px;
+  font-style: italic;
+  font-weight: bold;
+  background-color: blue;
+  margin-right: 115px;
+  font-family: 'Share Tech Mono', monospace;
+  color:white;
+}
+h2{
+  font-style: oblique;
+  font-weight:bolder;
+  background-color:white;
+margin: 0px;
+padding: 10px;
+text-align: center;
+}
+
+.name{
+  padding: -10px;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: white;
+  margin: 20px 30px 30px 20px;
+  border: 8px solid  blue;
+  border-width: medium;
+
+}
+.mainmenu{
+  border: 8px solid  blue;;
+  width: 230px;
+  margin: 20px 30px 30px 20px;
+  padding: 0px;
+  font-family: 'Share Tech Mono', monospace;
+}
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+.aboutmetext{
+  font-family: 'Share Tech Mono', monospace;
+  font-size:20px;
+  color:white;
+  background-color: blue;
+  margin-right: 300px;
+}
+.hobbies{
+  font-family: 'Share Tech Mono', monospace;
+  font-size:20px;
+  color:white;
+  background-color: blue;
+  margin-right: 300;
+}
+.Education{
+  font-family: 'Share Tech Mono', monospace;
+  font-size:20px;
+  color:white;
+  background-color: blue;
+  margin-right: 300;
+}
