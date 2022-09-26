@@ -1,7 +1,7 @@
 
 body {
 
-background-color: blue
+background-color: #3809d9e
 margin:0;
 padding:0;
 background:url(https://i.imgur.com/fAgT1mT.jpeg) no-repeat center center fixed;
@@ -30,7 +30,7 @@ img {
 h1 {padding: 1px;
   font-style: italic;
   font-weight: bold;
-  background-color: blue;
+  background-color: #3809d9;
   margin-right: 115px;
   font-family: 'Share Tech Mono', monospace;
   color:white;
@@ -51,12 +51,12 @@ text-align: center;
   font-weight: bold;
   background-color: white;
   margin: 20px 30px 30px 20px;
-  border: 8px solid  blue;
+  border: 8px solid  #3809d9;
   border-width: medium;
 
 }
 .mainmenu{
-  border: 8px solid  blue;;
+  border: 8px solid  #3809d9;;
   width: 230px;
   margin: 20px 30px 30px 20px;
   padding: 0px;
@@ -67,20 +67,20 @@ text-align: center;
   font-family: 'Share Tech Mono', monospace;
   font-size:20px;
   color:white;
-  background-color: blue;
+  background-color: #3809d9;
   margin-right: 300px;
 }
 .hobbies{
   font-family: 'Share Tech Mono', monospace;
   font-size:20px;
   color:white;
-  background-color: blue;
+  background-color: #3809d9;
   margin-right: 300;
 }
 .Education{
   font-family: 'Share Tech Mono', monospace;
   font-size:20px;
   color:white;
-  background-color: blue;
+  background-color: #3809d9;
   margin-right: 300;
 }
